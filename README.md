@@ -20,7 +20,7 @@ Tenho experiência em projetos corporativos, além de atuação com liderança t
 - Evoluindo como Desenvolvedor Frontend Pleno
 - Aprofundando conhecimentos em Fullstack Development
 - Estudando inglês pelo Cambly, nível A2 em evolução para B1
-- Construindo projetos para portfólio com foco em Angular, React, Vue.js, TypeScript e Django REST Framework
+- Construindo projetos para portfólio com foco em Angular, React, Vue.js, TypeScript, Node.Js e Django REST Framework
 
 ## 📫 Contato
 
