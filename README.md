@@ -1,6 +1,6 @@
 # Olá, eu sou Euler Amorim 👋
 
-Desenvolvedor Frontend Pleno com aproximadamente 7 anos de experiência em desenvolvimento de aplicações web modernas, responsivas e integradas a APIs.
+Desenvolvedor Frontend Pleno com 7 anos de experiência em desenvolvimento de aplicações web modernas, responsivas e integradas a APIs.
 
 Atuo principalmente com Angular, Vue.js, React, TypeScript, JavaScript, APIs RESTful, Micro Frontends, componentização, manutenção evolutiva/corretiva, Git e metodologias ágeis.
 
