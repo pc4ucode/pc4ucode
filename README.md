@@ -13,7 +13,7 @@ Tenho experiência em projetos corporativos, além de atuação com liderança t
 - Backend: Python, Django REST Framework, Node.js, Laravel
 - Banco de dados: PostgreSQL, MySQL, SQL Server, Oracle
 - DevTools: Git, GitLab CI/CD, Docker, Nginx, Jenkins, OpenShift
-- IA aplicada ao desenvolvimento: Claude Code e ferramentas de Vibe Coding
+- IA aplicada ao desenvolvimento: Claude Code, Codex e ferramentas de Vibe Coding
 
 ## 🎯 Atualmente
 
